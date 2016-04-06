@@ -1,0 +1,48 @@
+FONTLOG for the Aubrey font
+
+This file provides detailed information on the Aubrey 
+font Software.
+
+This information should be distributed along with the 
+Aubrey fonts and any derivative works.
+
+Basic Font Information
+
+Aubrey is a playful condensed decorative font with an art nouveau essence.
+Horizontal elements are unexpectedly cut and swapped with 
+sloped curves creating off-beats in the overall rhythm.
+Spurs are added to twist and stress the movement.
+Aubrey can be a good choice for designing holiday
+decorations and greetings. Works best in medium and large sizes.
+
+Designed by Gayaneh Bagdasaryan.
+
+Aubrey is a Unicode typeface family that supports 
+languages that use the Latin script and its variants, and 
+could be expanded to support other scripts.
+
+More specifically, this release supports the following Unicode
+ranges: Latin-1
+
+To contribute to the project contact Alexei Vanyashin at 
+a at cyreal.org
+
+Source Files:
+1. src/Aubrey-Regular-OTF.vbf (Original source file with PS contours)
+2. src/Aubrey-Regular-TTF.vbf (Manually Hinted source file with TTF outlines) 
+
+ChangeLog
+21/07/2011 Initial release v 1.000 (Alexei Vanyashin)
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
+
+N: Gayaneh Bagdasaryan
+E: g at cyreal.org
+D: Designer
+
+N: Alexei Vanyashin
+E: a at cyreal.org
+W: www.cyreal.org
+D: Mastering
