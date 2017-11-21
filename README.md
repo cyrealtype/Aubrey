@@ -2,4 +2,4 @@ Aubrey is a playful condensed decorative font with an art nouveau essence. Horiz
 
 Designed by Gayaneh Bagdasaryan.
 
-![Aubrey Font](src/sample.png)
+![Aubrey Font](documentation/sample.png)
