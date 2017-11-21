@@ -19137,7 +19137,7 @@ slash = -48;
 };
 };
 keyboardIncrement = 0;
-manufacturer = "Gayaneh Bagdasaryan | Cyreal.org";
+manufacturer = Cyreal.org;
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 2048;
 versionMajor = 1;
