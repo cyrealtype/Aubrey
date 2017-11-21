@@ -16630,6 +16630,433 @@ width = 455;
 unicode = 005E;
 },
 {
+glyphname = dieresiscomb;
+layers = (
+{
+components = (
+{
+name = dieresis;
+}
+);
+hints = (
+{
+place = "{40, 72}";
+},
+{
+place = "{44, 64}";
+},
+{
+horizontal = 1;
+place = "{450, 85}";
+},
+{
+horizontal = 1;
+place = "{610, -75}";
+},
+{
+horizontal = 1;
+place = "{0, 21}";
+}
+);
+layerId = UUID0;
+width = 284;
+}
+);
+unicode = 0308;
+},
+{
+glyphname = gravecomb;
+layers = (
+{
+components = (
+{
+name = grave;
+}
+);
+hints = (
+{
+place = "{485, 70}";
+},
+{
+horizontal = 1;
+place = "{124, 21}";
+},
+{
+horizontal = 1;
+place = "{544, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{303, 67}";
+},
+{
+horizontal = 1;
+place = "{102, 21}";
+},
+{
+horizontal = 1;
+place = "{567, -20}";
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+width = 232;
+}
+);
+unicode = 0300;
+},
+{
+glyphname = acutecomb;
+layers = (
+{
+components = (
+{
+name = acute;
+}
+);
+hints = (
+{
+place = "{-253, -70}";
+},
+{
+horizontal = 1;
+place = "{124, 21}";
+},
+{
+horizontal = 1;
+place = "{544, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{303, 67}";
+},
+{
+horizontal = 1;
+place = "{102, 21}";
+},
+{
+horizontal = 1;
+place = "{567, -20}";
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+width = 232;
+}
+);
+unicode = 0301;
+},
+{
+glyphname = circumflexcomb;
+layers = (
+{
+components = (
+{
+name = circumflex;
+}
+);
+hints = (
+{
+place = "{605, 70}";
+},
+{
+horizontal = 1;
+place = "{124, 21}";
+},
+{
+horizontal = 1;
+place = "{544, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{303, 67}";
+},
+{
+horizontal = 1;
+place = "{102, 21}";
+},
+{
+horizontal = 1;
+place = "{567, -20}";
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+width = 352;
+}
+);
+unicode = 0302;
+},
+{
+glyphname = caroncomb;
+layers = (
+{
+components = (
+{
+name = caron;
+}
+);
+hints = (
+{
+place = "{605, 70}";
+},
+{
+horizontal = 1;
+place = "{124, 21}";
+},
+{
+horizontal = 1;
+place = "{544, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{303, 67}";
+},
+{
+horizontal = 1;
+place = "{102, 21}";
+},
+{
+horizontal = 1;
+place = "{567, -20}";
+target = down;
+type = TopGhost;
+}
+);
+layerId = UUID0;
+width = 352;
+}
+);
+unicode = 030C;
+},
+{
+glyphname = ringcomb;
+layers = (
+{
+components = (
+{
+name = ring;
+}
+);
+hints = (
+{
+place = "{57, 44}";
+},
+{
+place = "{222, 44}";
+},
+{
+place = "{234, 44}";
+},
+{
+place = "{398, 44}";
+},
+{
+place = "{61, 64}";
+},
+{
+place = "{319, 64}";
+},
+{
+horizontal = 1;
+place = "{-9, 40}";
+},
+{
+horizontal = 1;
+place = "{222, 40}";
+},
+{
+horizontal = 1;
+place = "{401, 40}";
+},
+{
+horizontal = 1;
+place = "{631, 41}";
+},
+{
+horizontal = 1;
+place = "{397, 62}";
+},
+{
+horizontal = 1;
+place = "{-9, 21}";
+}
+);
+layerId = UUID0;
+width = 299;
+}
+);
+unicode = 030A;
+},
+{
+glyphname = tildecomb;
+layers = (
+{
+components = (
+{
+name = tilde;
+}
+);
+hints = (
+{
+place = "{791, -64}";
+},
+{
+place = "{-307, 64}";
+},
+{
+place = "{-49, 64}";
+},
+{
+place = "{-115, 64}";
+},
+{
+place = "{143, 64}";
+},
+{
+horizontal = 1;
+place = "{280, 67}";
+},
+{
+horizontal = 1;
+place = "{322, 67}";
+},
+{
+horizontal = 1;
+place = "{272, 21}";
+},
+{
+horizontal = 1;
+place = "{397, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{-9, 62}";
+},
+{
+horizontal = 1;
+place = "{459, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{-16, 62}";
+},
+{
+horizontal = 1;
+place = "{390, 62}";
+},
+{
+horizontal = 1;
+place = "{397, 62}";
+},
+{
+horizontal = 1;
+place = "{-9, 21}";
+},
+{
+horizontal = 1;
+place = "{718, 62}";
+},
+{
+horizontal = 1;
+place = "{312, 21}";
+}
+);
+layerId = UUID0;
+width = 372;
+}
+);
+unicode = 0303;
+},
+{
+glyphname = macroncomb;
+layers = (
+{
+components = (
+{
+name = macron;
+}
+);
+hints = (
+{
+horizontal = 1;
+place = "{199, 93}";
+}
+);
+layerId = UUID0;
+width = 332;
+}
+);
+unicode = 0304;
+},
+{
+glyphname = cedillacomb;
+layers = (
+{
+components = (
+{
+name = cedilla;
+}
+);
+hints = (
+{
+place = "{581, 83}";
+},
+{
+place = "{-430, 82}";
+},
+{
+place = "{-178, 82}";
+},
+{
+horizontal = 1;
+place = "{-9, 71}";
+},
+{
+horizontal = 1;
+place = "{459, -20}";
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = "{-16, 71}";
+},
+{
+horizontal = 1;
+place = "{382, 70}";
+},
+{
+horizontal = 1;
+place = "{388, 71}";
+},
+{
+horizontal = 1;
+place = "{-9, 31}";
+}
+);
+layerId = UUID0;
+width = 275;
+}
+);
+unicode = 0327;
+},
+{
 glyphname = acute;
 layers = (
 {
@@ -17207,82 +17634,6 @@ layers = (
 {
 layerId = UUID0;
 width = 195;
-}
-);
-},
-{
-glyphname = Acute;
-layers = (
-{
-hints = (
-{
-place = "{70, 70}";
-},
-{
-place = "{-136, -70}";
-},
-{
-horizontal = 1;
-place = "{173, 66}";
-},
-{
-horizontal = 1;
-place = "{-9, 21}";
-},
-{
-horizontal = 1;
-place = "{625, -20}";
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = "{0, 21}";
-},
-{
-horizontal = 1;
-place = "{616, -20}";
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = "{280, 21}";
-},
-{
-horizontal = 1;
-place = "{700, -20}";
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = "{459, 67}";
-},
-{
-horizontal = 1;
-place = "{258, 21}";
-},
-{
-horizontal = 1;
-place = "{723, -20}";
-target = down;
-type = TopGhost;
-}
-);
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"263 811 LINE",
-"157 706 LINE",
-"203 660 LINE",
-"309 765 LINE"
-);
-}
-);
-width = 436;
 }
 );
 },
