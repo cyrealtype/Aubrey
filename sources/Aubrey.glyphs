@@ -9485,6 +9485,21 @@ width = 280;
 unicode = 00BA;
 },
 {
+glyphname = mu;
+layers = (
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = UUID0;
+width = 449;
+}
+);
+unicode = 03BC;
+},
+{
 glyphname = zero;
 layers = (
 {
