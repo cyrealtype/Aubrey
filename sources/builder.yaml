@@ -1,0 +1,8 @@
+sources:
+  - Aubrey.glyphs
+outputDir: "../fonts"
+buildStatic: true
+buildVariable: false
+buildTTF: true
+buildOTF: false
+buildWebfont: false
